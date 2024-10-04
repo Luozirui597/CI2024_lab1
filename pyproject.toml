@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ci2024-lab1"
+version = "0.1.0"
+description = ""
+authors = ["Luo <s328249@polito.studenti.it>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
