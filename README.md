@@ -8,3 +8,6 @@ And Instance 3 used RMHC.
 Instances 4, 5, and 6 used RMHC, RMHC with Strong Tweak, and Steepest Step and Restart, respectively.
 #
 RMHC truely increased chance to avoid local optima solution by multiple restarts.
+
+#
+I finished those instances by myself,and thanks to professor's recording vedio and some online resources those I forgot saving their link.But I deeply realised I didn't understand or master the algorithm，it's essential to continue learning and making some progress.
